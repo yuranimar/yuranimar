@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @yuranimar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hola, soy @yuranimar
+- 👀 Estoy interesada en el Desarrollo Frontend, Diseño UI/UX y la integración de herramientas de IA en procesos creativos.
+- 🌱 Actualmente estoy aprendiendo patrones avanzados de JavaScript y profundizando en frameworks modernos de CSS como Bootstrap y Tailwind.
+- 💞️ Busco colaborar en proyectos de código abierto, desarrollo de aplicaciones web innovadoras y soluciones digitales para agencias.
+- 📫 Cómo contactarme: Puedes escribirme a través de mi perfil de LinkedIn o por correo electrónico a [Tu Correo Aquí].
 
 <!---
-yuranimar/yuranimar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+yuranimar/yuranimar es un repositorio ✨ especial ✨ porque su `README.md` (este archivo) aparece en tu perfil de GitHub.
+Puedes hacer clic en el enlace Preview para ver los cambios.
 --->
